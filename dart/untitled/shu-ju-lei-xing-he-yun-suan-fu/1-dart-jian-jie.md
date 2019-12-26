@@ -12,6 +12,8 @@ Dart 于 2011 年由 Google 首次发布，最初旨在替代 JavaScript。其�
 
 Dart 与我们可能熟悉的其它语言（例如: Java、C\#、Swift 和 Kotlin）有许多相似之处:
 
+![](../../../.gitbook/assets/image%20%281%29.png)
+
 * 静态类型（Statically-typed） Dart是静态类型的，这意味着类型必须在编译时指定，并且不能在运行时更改。
 * 多范式（Multi-Paradigm）
 
@@ -29,7 +31,7 @@ Dart 与我们可能熟悉的其它语言（例如: Java、C\#、Swift 和 Kotli
 
   * **dynamic** 关键字
 
-  尽管它是静态类型的，但Dart也有一个模仿动态类型语言（如JavaScript或Python）的特性，如果您使用过这些语言，它可以帮助您快速入门。
+  尽管它是静态类型的，但Dart也有一个模仿动态类型语言（如 JavaScript 或 Python ）的特性，如果您使用过这些语言，它可以帮助您快速入门。
 
-
+Dart 仍然可以用于构建 Web 应用程序，但是它并没有真正作为 Web 应用程序开发的 JavaScript 替代品。 但是，自从 Flutter 的第一个 beta 版本发布以来，人们对 Dart 的兴趣便开始复苏。
 
