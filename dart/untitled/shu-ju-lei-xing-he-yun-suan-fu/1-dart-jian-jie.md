@@ -38,7 +38,7 @@ Dart 仍然可以用于构建 Web 应用程序，但是它并没有真正作为 
 Flutter 1.0于2018年12月发布，移动开发人员尤其热衷于研究 Flutter 和 Dart，以查看它们是否确实为跨平台开发提供了圣杯。
 
 * 与其他跨平台工具相比，Flutter 和Dart 具有许多方面的优势，例如，具有类似于本机应用程序的性能的承诺。
-* 此外，Flutter 是 Fuchsia 的开发工具包，Fuchsia 是Google 正在开发的一个实验性操作系统。Fuchsia 也许有一天会为许多种类的设备提供动力，因此在 Flutter 和 Dart 的开发上取得进展，将使我们在为未来的理论设备开发软件方面处于领先地位。我们可以在 Fuchsia.dev 了解更多关于 Fuchsia的 信息。
+* 此外，Flutter 是 Fuchsia 的开发工具包，Fuchsia 是Google 正在开发的一个实验性操作系统。Fuchsia 也许有一天会为许多种类的设备提供动力，因此在 Flutter 和 Dart 的开发上取得进展，将使我们在为未来的理论设备开发软件方面处于领先地位。我们可以在 Fuchsia.dev 了解更多关于 Fuchsia 的 信息。
 
 
 
