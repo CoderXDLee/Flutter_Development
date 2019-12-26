@@ -14,7 +14,7 @@ Dart 与我们可能熟悉的其它语言（例如: Java、C\#、Swift 和 Kotli
 
 ![](../../../.gitbook/assets/image%20%281%29.png)
 
-* 静态类型（Statically-typed）  Dart是静态类型的，这意味着类型必须在编译时指定，并且不能在运行时更改。 
+* 静态类型（Statically-typed） Dart是静态类型的，这意味着类型必须在编译时指定，并且不能在运行时更改。 
 * 多范式（Multi-Paradigm）
 
   * 面向对象编程、函数式编程、...
